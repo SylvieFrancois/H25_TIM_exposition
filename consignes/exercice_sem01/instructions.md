@@ -7,7 +7,7 @@
 2) Créer un dossier Exercice_sem01 Attention: pour qu'un dossier soit créé (et faire une arborescence), le nom du dossier doit être suivi d'une barre oblique ET 
    d'un nom de dossier (avec une extension, md) Ne pas oublier de créer un README.md pour chaque dossier et sous-dossier.
 
-3) Dans le dossier Exercice_sem01, créer un fichier: **Fiche_presentation.md**
+3) Dans le dossier Exercice_sem01, créer un fichier pour votre Fiche de presentation en y inscrivant votre **NOM_Prenon.md**
    Dans cette fiche vous ferez une brève présentation de vous-même (Nommer un de vos champs d'intérêt dans le multimedi puis Donner un exemple de projet, 
    d'exposition, ou de lieu qui vous a inspiré).
 
