@@ -1,7 +1,7 @@
 # Exercice semaine 1: Fiche de présentation
-#Afin de vous familiariser avec GitHub, vous devrez:
+# Afin de vous familiariser avec GitHub, vous devrez:
 
-#1) Créer votre répertoire GitHub **H25_V11_inspirations_VOTRENOMDEFAMILLE**<br>
+# 1) Créer votre répertoire GitHub **H25_V11_inspirations_VOTRENOMDEFAMILLE**<br>
    Assurez-vous que vous avez coché l'option *public* afin qu'il puisse être vu.
 
 2) Créer un dossier Exercice_sem01 Attention: pour qu'un dossier soit créé (et faire une arborescence), le nom du dossier doit être suivi d'une barre oblique ET 
