@@ -11,7 +11,7 @@
 - [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
 - [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'information, produire des rapports pertinents et explicites, communiquer efficacement ses idées
       
-## MÉTHODE ()
+## MÉTHODE 
 - [ ] Visiter en groupe les expositions du Centre des sciences  lors du cours de la semaine 2
 - [ ] Observer et expérimenter l'ensemble des dispositifs présents
 - [ ] Prendre des notes
@@ -19,7 +19,7 @@
 - [ ] Faire des croquis
 - [ ] Faire de courts vidéos
 - [ ] Poser des questions à la professeure ou au médiateur
-- [ ] Consulter la fiche banque_inspiration/documentation.md pour la méthode et les contenus détaillées
+- [ ] **Consulter la fiche banque_inspiration/TP_tous_documentation.md pour la méthode de documentation et de rédaction des contenus détaillées pour la fiche_Oeuvre**.
       
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
