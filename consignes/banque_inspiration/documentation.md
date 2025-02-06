@@ -23,7 +23,7 @@ Votre banque d'inspirations, organisée en répertoire Github (*repository*) ras
 - [ ] Compiler les fichiers et notes à la suite de chacune des visites d'exposition
 - [ ] Renommer les fichiers par un nommage conforme et par l'utilisation de mots clés clairs et concis (avant l'ajout des fichiers dans votre *repository*)
 - [ ] Redimensionner les fichiers des photographies (avant l'ajout des fichiers dans votre *repository*)
-- [ ] Dans votre *repository*, créer le **dossier** voulu, puis l'arborescence de ses fichiers et dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
+- [ ] Dans votre *repository*, créer le **dossier** voulu : **LIEU** (remplacer LIEU par le nom du Musée ou Événement), puis l'arborescence de ses fichiers et dossiers (exemple: medias, croquis) chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
 - [ ] Pour chacune des expositions visitées, créer un fichier nommé **fiche_EXPO_Oeuvre_choisie.md** (remplacer EXPO par le nom de l'exposition et Oeuvre_Choisie par le nom de l'oeuvre ou du dispositif)
 - [ ] À partir des aspects notés et photographiés, créer une fiche de présentation des informations bien **structurée** (titres, sous-titres, cohérence de la présentation, intégration soignée d'appuis visuels...)
 - [ ] Intégrer les informations demandées dans la fiche créée
