@@ -56,6 +56,13 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 - [ ] Ouverture : élément inspirant retenu parmi toutes les oeuvres, dispositfs et expériences de la session
 
 ## CRITÈRES D'ÉVALUATION - GRILLE D'ÉVALUATION : voir fichier dans équipe TEAMS
+Banque inspiration
+- Exhaustivité des informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
+
+Présentation orale
 - Contextualisation de l'oeuvre ou du dispositif et de l'expérience
 - Description de l'oeuvre ou du dispositif et de l'expérience
 - Justification de l'appréciation
