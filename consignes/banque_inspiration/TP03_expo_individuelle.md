@@ -32,7 +32,7 @@ Communication efficace de ses idées et de ses choix par la présentation orale 
 Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche de présentation de cette oeuvre ou de ce dispositif et de votre expérience dans votre banque d'inspirations.
 
 ## CE QUI EST ATTENDU
-**Une présentation orale de 6 à 8 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
+**Une présentation orale de 5 à 7 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
 *Il n'y a donc pas de PowerPoint ou autre diaporama à réaliser. Votre support visuel sera votre fiche de présentation dans votre répertoire GitHub*
 
 ## PLAN DE LA PRÉSENTATION
