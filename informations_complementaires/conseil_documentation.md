@@ -20,7 +20,7 @@ Utiliser la syntaxe **blockquote** <https://www.markdownguide.org/basic-syntax/#
 
 - Indiquer ce que l'on voit (légende): donner un titre, inscrire les crédits (incluant les vôtres si vous êtes le photographe) et la source (endroit où vous avez trouvé cette image).    
 
-La source de la photo doit aussi être identifiée dans le nom du fichier, à la fin du nom (ex: facade_musee_photo_MBAM). 
+- La source de la photo doit aussi être identifiée dans le nom du fichier, à la fin du nom (ex: facade_musee_photo_MBAM). 
 
 - Réduire les photographies (dimensions) avant leur stockage dans le dossier du répertoire (espace de stockage limité avec compte gratuit). 
 
