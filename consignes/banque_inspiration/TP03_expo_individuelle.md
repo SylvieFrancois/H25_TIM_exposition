@@ -1,6 +1,6 @@
 # TRAVAIL 3 - EXPOSITION VISITE INDIVIDUELLE
-**BANQUE INSPIRATION - fiche_Oeuvre (15%) semaine 13**
-**PRÉSENTATION ORALE (20%) Semaines 14-15 (selon horaire déterminé à la semaine 12)**	
+- **BANQUE INSPIRATION - fiche_Oeuvre (15%) semaine 13**
+- **PRÉSENTATION ORALE (20%) Semaines 14-15 (selon horaire déterminé à la semaine 12)**	
 
 ## CONSIGNES DU TRAVAIL
 Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fichier .md)
