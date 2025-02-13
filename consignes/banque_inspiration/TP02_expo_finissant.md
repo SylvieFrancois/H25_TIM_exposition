@@ -1,4 +1,4 @@
-**Exploration des projets en création par les étudiant.e.s de 3e année en TIM** 
+# Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
