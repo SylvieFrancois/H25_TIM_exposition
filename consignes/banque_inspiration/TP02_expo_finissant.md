@@ -33,5 +33,9 @@ De plus, vous devrez :
 
 
 ## CRITÈRES D'ÉVALUATION 
+- Exhaustivité des informations répertoriées
+- Organisation des données
+- Présentation de l'information
+- Communication des idées
 
-La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
+  La grille d'évaluation est disponible dans l'équipe TEAMS (dossier TP)
