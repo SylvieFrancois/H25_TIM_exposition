@@ -16,6 +16,7 @@
 - ordonner les projets selon votre préférence (1 = votre projet préféré)
 - Pour votre **projet préféré, créer une fiche complète selon les consignes dans TP_tous_documentation.**
 
+
 - Pour **les autres projets ordonnés selon votre préférences, créer une fiche qui les regroupera et indiquer:**
 - le titre de chacun des projets ainsi que ses créateurs et créatrices
 - le lien de chacun avec le thème *info à venir*
@@ -24,14 +25,13 @@
 - noter ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 De plus, vous devrez :
 - identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
-- présenter une technique* ou une composante technologique* qui sera utilisée dans l'*un des projets* et que vous ne connaissiez pas
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
+- présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
 
 
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant une des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 
-## CRITÈRES D'ÉVALUATION 
 
+## CRITÈRES D'ÉVALUATION 
 
 La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
