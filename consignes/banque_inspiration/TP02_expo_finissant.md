@@ -9,7 +9,7 @@
 
 ## MÉTHODE
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] [au visionnement de la présentation de leurs projet en création] et à l'exploration de leur documentation de pré-production
+- [ ] au visionnement de la présentation de leurs projet en création et à l'exploration de leur documentation de pré-production
 - [ ] à la visite des studios en production et lors de l'exposition finale
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
@@ -20,8 +20,7 @@
 
 - Pour **les autres projets ordonnés selon votre préférences, créer une fiche qui les regroupera et indiquer:**
 - le titre de chacun des projets ainsi que ses créateurs et créatrices
-- le lien de chacun avec le thème *info à venir*
-- l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
+- l'installation en cours (ou finale) dans les studios pour chacun des projets (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets,selon leur documentation GitHub, avec la source)
 - noter ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)
 De plus, vous devrez :
@@ -30,7 +29,7 @@ De plus, vous devrez :
 
 
 
-**Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant une des fiches agréables à lire, dans lesquelles on repère facilement l'information**
+**Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 
 
 ## CRITÈRES D'ÉVALUATION 
