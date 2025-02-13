@@ -1,4 +1,5 @@
-# Exposition des étudiant.e.s. finissant.e.s en TIM
+# TRAVAIL 2: Exposition des étudiant.e.s. finissant.e.s en TIM
+## (Répertoire GitHub) 15% (REMISE semaine 9, fin du cours)
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
