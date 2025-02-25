@@ -14,7 +14,7 @@
       [Prismatica](https://www.youtube.com/watch?v=d6NkifknkFk), [C0NDU8](https://www.youtube.com/watch?v=wziDJZdT_d4), [Luminatura](https://www.youtube.com/watch?v=i6xJno_NFSc),                [Etheria](https://www.youtube.com/watch?v=nwJlMtzI-8g), [Fuga](https://www.youtube.com/watch?v=rhUf4A05L-w), [Internature](https://www.youtube.com/watch?v=pLxNPbXbVRE);  [Arcadia](https://www.youtube.com/watch?v=5qRcwjpivJs)
 
 - [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers 50_technologie et 60_plantation)
-      [Primatica_GitHub](https://pootpookies.github.io/Prismatica/), [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#), [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/), [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/), [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/), [Internature_GitHub](https://tprangers.github.io/internature/), [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)  
+      [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/), [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#), [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/), [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/), [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/), [Internature_GitHub](https://tprangers.github.io/internature/), [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)  
 - [ ] à la visite des studios en production et lors de l'exposition finale
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
