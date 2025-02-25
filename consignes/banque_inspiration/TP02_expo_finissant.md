@@ -13,7 +13,7 @@
 - [ ] au visionnement de la présentation de leurs projet en création
       [Prismatica](https://www.youtube.com/watch?v=d6NkifknkFk), [C0NDU8](https://www.youtube.com/watch?v=wziDJZdT_d4), [Luminatura](https://www.youtube.com/watch?v=i6xJno_NFSc),                [Etheria](https://www.youtube.com/watch?v=nwJlMtzI-8g), [Fuga](https://www.youtube.com/watch?v=rhUf4A05L-w), [Internature](https://www.youtube.com/watch?v=pLxNPbXbVRE);  [Arcadia](https://www.youtube.com/watch?v=5qRcwjpivJs)
 
-- [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers 50_technologie et 60_plantation)
+- [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers **production, technologie et plantation**)
       [Prismatica_GitHub](https://github.com/PootPookies/Prismatica), [C0NDU8_GitHub](https://github.com/orgs/GearShift-Games/projects/4), [Luminatura_GitHub](https://github.com/Miaou-Mafia/projet-luminatura), [Etheria_GitHub](https://github.com/Ethereal-Creators/Etheria), [Fuga_GitHub](https://github.com/Escapism-Fuga/Fuga/projects?query=is%3Aopen), [Internature_GitHub](https://github.com/tprangers/internature.git), [Arcadia_GitHub](https://github.com/Cousi-Cousa/Arcadia)  
 - [ ] à la visite des studios en production et lors de l'exposition finale
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
