@@ -48,7 +48,7 @@ De plus, vous devrez :
 
 
 
-## CRITÈRES D'ÉVALUATION DU TP02
+## CRITÈRES D'ÉVALUATION
 - Exhaustivité des informations répertoriées
 - Organisation des données
 - Présentation de l'information
