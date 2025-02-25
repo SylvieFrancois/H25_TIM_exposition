@@ -32,12 +32,23 @@ De plus, vous devrez :
 - identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
 - présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
 
-
-
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 
+####LES PROJETS EN CRÉATION DES FINISSANT.E.S  SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉ PAR GUILLAUME ARSENEAULT ET THOMAS OUELLET FREDERICKS
 
-## CRITÈRES D'ÉVALUATION 
+####MISE EN CONTEXTE
+> Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
+
+> L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
+
+> L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
+
+####TÂCHES
+> Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
+
+
+
+## CRITÈRES D'ÉVALUATION DU TP02
 - Exhaustivité des informations répertoriées
 - Organisation des données
 - Présentation de l'information
