@@ -15,7 +15,7 @@
 
 - [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*)
       [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/), [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#/), [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/), [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/), [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/), [Internature_GitHub](https://tprangers.github.io/internature/), [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)  
-- [ ] à la visite des studios en production et lors de l'exposition finale
+- [ ] à la visite des studios en production (semaine 6) et lors de l'exposition finale (semaine 8)
 - [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
 
 ### Créer deux fichiers.md qui nous permettront de découvrir ces projets en création:
