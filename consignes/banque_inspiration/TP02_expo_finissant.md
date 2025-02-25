@@ -43,7 +43,7 @@ De plus, vous devrez :
 
 > L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
 
-> TÂCHES
+> TÂCHES<BR>
 > Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
 
 
