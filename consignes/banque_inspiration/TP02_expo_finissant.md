@@ -26,7 +26,7 @@
 - Pour **les autres projets ordonnés selon votre préférences, créer une fiche qui les regroupera et indiquer:**
 1. le titre de chacun des projets ainsi que ses créateurs et créatrices
 2. l'installation en cours (ou finale) dans les studios pour chacun des projets (photos à l'appui)
-3. le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets,selon leur documentation GitHub, avec la source)
+3. le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets,selon leur documentation GitHub, en indiquant la source)
 4. noter ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)<BR>
 
 De plus, vous devrez :<BR>
