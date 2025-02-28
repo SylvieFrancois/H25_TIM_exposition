@@ -30,8 +30,8 @@
 4. noter ce que vous ressentez en expérimentant chacune des installations, avec justification (avant/après l'expérimentation)<BR>
 
 De plus, vous devrez :<BR>
-      5. identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))<BR>
-      6. présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
+-      5. identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))<BR>
+-     6. présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 
