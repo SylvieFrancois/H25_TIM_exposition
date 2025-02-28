@@ -34,9 +34,8 @@
 6. présenter une technique **ou** une composante technologique qui sera utilisée dans l'**un des projets** et que vous ne connaissiez pas.  Pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues.
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
-
-
-
+<BR>
+<BR>
 > LES PROJETS EN CRÉATION DES FINISSANT.E.S  SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉ PAR GUILLAUME ARSENEAULT ET THOMAS OUELLET FREDERICKS
 >
 > MISE EN CONTEXTE<BR>
