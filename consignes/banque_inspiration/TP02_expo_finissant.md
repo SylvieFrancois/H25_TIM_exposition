@@ -35,6 +35,8 @@ De plus, vous devrez :<BR>
 
 **Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fiches agréables à lire, dans lesquelles on repère facilement l'information**
 
+
+
 > LES PROJETS EN CRÉATION DES FINISSANT.E.S  SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉ PAR GUILLAUME ARSENEAULT ET THOMAS OUELLET FREDERICKS
 >
 > MISE EN CONTEXTE<BR>
