@@ -5,5 +5,5 @@ Ce répertoire contient les **consignes des travaux** du cours 570 V11 MO ainsi 
 
 ## Détail de ce répertoire:
 
-### Consignes
-### Informations complémentaires et astuces
+### consignes
+### informations complémentaires et astuces
