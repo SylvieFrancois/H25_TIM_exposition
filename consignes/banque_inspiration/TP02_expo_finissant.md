@@ -10,7 +10,7 @@
 ## MÉTHODE
 
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] au visionnement de la présentation de leurs projet en création de l'exposition [Résonnance](https://tim-montmorency.com/2025/#/)
+- [ ] au visionnement de la présentation de leurs projets en création dans l'exposition [Résonnance](https://tim-montmorency.com/2025/#/)
 
 - [ ] à l'exploration de leur documentation de pré-production (GitHub, voir particulièrement leurs dossiers *préproduction, technologie et plantation*)
       [Prismatica_GitHub](https://pootpookies.github.io/Prismatica/), [C0NDU8_GitHub](https://gearshift-games.github.io/Web-C0N-DU8/#/), [Luminatura_GitHub](https://miaou-mafia.github.io/projet-luminatura/#/), [Etheria_GitHub](https://ethereal-creators.github.io/Etheria/#/), [Fuga_GitHub](https://escapism-fuga.github.io/Fuga/#/), [Internature_GitHub](https://tprangers.github.io/internature/), [Arcadia_GitHub](https://cousi-cousa.github.io/Arcadia/#/)  
