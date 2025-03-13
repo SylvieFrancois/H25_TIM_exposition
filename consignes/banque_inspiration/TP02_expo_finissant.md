@@ -10,7 +10,7 @@
 ## MÉTHODE
 
 **Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] au visionnement de la présentation de leurs projet en création de l'exposition *Résonnance*[TIM2025](https://tim-montmorency.com/2025/#/)
+- [ ] au visionnement de la présentation de leurs projet en création de l'exposition [Résonnance](https://tim-montmorency.com/2025/#/)
       
       [Prismatica](https://www.youtube.com/watch?v=d6NkifknkFk), [C0NDU8](https://www.youtube.com/watch?v=wziDJZdT_d4), [Luminatura](https://www.youtube.com/watch?v=i6xJno_NFSc),                [Etheria](https://www.youtube.com/watch?v=nwJlMtzI-8g), [Fuga](https://www.youtube.com/watch?v=rhUf4A05L-w), [Internature](https://www.youtube.com/watch?v=pLxNPbXbVRE);  [Arcadia](https://www.youtube.com/watch?v=5qRcwjpivJs)
 
