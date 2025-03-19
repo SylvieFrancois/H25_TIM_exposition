@@ -18,7 +18,7 @@
 - [ ] Faire des photographies
 - [ ] Faire des croquis
 - [ ] Faire de courts vidéos (si permis)
-- [ ] Poser des questions à la professeure ou au médiateur
+- [ ] Poser des questions à la professeure
 - [ ] **Consulter la fiche banque_inspiration/TP_tous_documentation.md pour la méthode de documentation et de rédaction des contenus détaillées pour la fiche_oeuvre**.
       
 |:pencil2: À noter  | :camera: À photographier | 
