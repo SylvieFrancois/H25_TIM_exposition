@@ -3,7 +3,7 @@
 - **PRÉSENTATION ORALE (20%) Remise semaines 14-15** (selon horaire déterminé à la semaine 12)
 
 ## CONSIGNES DU TRAVAIL
-Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fiche_Oeuvre.md)
+Communication efficace de ses idées et de ses choix par la présentation orale d’une œuvre ou dispositif, de l’expérience vécue lors de la visite individuelle de l'exposition et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fiche_oeuvre.md)
 
 
 ## OBJECTIFS POURSUIVIS
@@ -15,7 +15,7 @@ Communication efficace de ses idées et de ses choix par la présentation orale 
 - [ ] Se renseigner sur l'exposition et le lieu choisis (et réserver un billet si nécessaire)
 - [ ] Effectuer la visite de l'exposition
       SE RÉFÉRER À LA GRILLE DES INFORMATIONS À DOCUMENTER POUR LA BANQUE D'INSPIRATION (TP_tous_documentation.md)
-- [ ] Créer un **dossier EXPO et une fiche_Oeuvre** dans votre banque d'inspirations pour cette visite, en respectant les étapes    
+- [ ] Créer un **dossier EXPO et une fiche_oeuvre** dans votre banque d'inspirations pour cette visite, en respectant les étapes    
 - [ ] Observer, expérimenter, interagir avec (lorsque permis) l'oeuvre ou le dispositif multimédia que vous présenterez
 - [ ] Prendre des notes
 - [ ] Faire des photographies
