@@ -1,6 +1,6 @@
 # TRAVAIL 5: VISITE ET EXPÉRIENCE D'UNE EXPOSITION ARTISTIQUE AU MUSÉE DES BEAUX-ARTS DE MONTRÉAL
 
-## (Répertoire GitHub) 15% (REMISE semaine 15)
+## (Répertoire GitHub) 15% (REMISE semaine 13)
 
 # LA BANQUE D'INSPIRATIONS
  Dans votre *repository*, créer le **dossier** voulu, puis l'arborescence de ses fichiers et dossiers (chacun des dossiers doit contenir un fichier README.md qui en détaille le contenu)
