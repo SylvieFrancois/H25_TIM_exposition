@@ -13,7 +13,7 @@ Il s'agira donc, dans un texte de 200-250 mots, de rendre compte de la conféren
 
 Le compte-rendu doit avoir un **titre**. Le propos doit être bien structuré (en **paragraphes**) avec une **introduction** qui présente l'intervenant.e et le thème de sa conférence. Puis, quelques-unes des grandes idées partagées sont expliquées dans le **développement**. Enfin, votre **conclusion** partagera une appréciation de la conférence, appréciation qui sera appuyée d'une justification (le pourquoi). Il est important de conserver une attitude ouverte et respectueuse dans cette partie du compte-rendu. 
 
-Dans votre répertoire V11_Banque_inspirations/, il vous faudra créer un dossier **studio_LOZANO-HEMMER** puis une **fiche_rencontre_J_SEGUELA.md**  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix, présentée lors de la conférence, et tirée du site web de l'artiste en identifiant bien la source.
+Dans votre répertoire, il vous faudra créer un dossier **studio_LOZANO-HEMMER** puis une **fiche_rencontre_J_SEGUELA.md**  dans laquelle vous rédigerez votre compte-rendu en utilisant une mise en page avec titre et sous-titre.  Vous devrez insérer une image d'une oeuvre de votre choix, présentée lors de la conférence, et tirée du site web de l'artiste en identifiant bien la source.
 
 Rappel: la qualité de français étant importante, assurez-vous de passer votre texte par Antidote ou un autre logiciel de correction avant de le remettre.
 
