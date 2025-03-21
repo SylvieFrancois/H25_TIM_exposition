@@ -2,7 +2,7 @@
 
 *Mardi 25 mars 2025 - 12h30-14h00 - Salle Claude Legault (B1346)*
 
-### Jade Séguela, registraire, [Rafael Lozano-Hemmer](https://www.lozano-hemmer.com/) et [Studio Antimodular](https://antimodular.com/)
+### Jade Séguela, registraire, [Rafael Lozano-Hemmer, Studio Antimodular](https://antimodular.com/)
 
 Jade Séguéla vous présentera la logistique de production, de documentation et de mise en exposition des oeuvres d'un artiste en art numérique, Rafael Lozano-Hemmer.
 
