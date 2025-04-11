@@ -5,7 +5,7 @@
 - Bien développer le propos : écrire comme si la personne qui vous lira n'a pas vu l'oeuvre ou le dispositif. Bien expliquer, tant au niveau de la description, de la mise en espace que de l'expérience du visiteur ou de l'interacteur. Puis, pour les aspects de votre vécu, il faut élaborer clairement votre pensée, mettez-y des détails et justifiez chacun des aspects que vous commentez.  
 
 - Développer le vocabulaire technique pour décrire les composantes et éléments de mise en exposition (ex. projecteur vidéo numérique, haut-parleur, caisson de basses-fréquences, pont d'éclairage ou herse, effet stroboscopique).
-- 
+  
 - Artiste/firme qui a crée l’œuvre ou le dispositif : il faut le nommer pas seulement inclure plusieurs photos du panneau crédit sans rien écrire d’autre.
  
  - Description de la mise en espace: être précis: situer la place dans la salle (à l’entrée, dans le milieu, en retrait, en hauteur, séparé par une cloison), la hauteur des modules ou éléments, comment sont-ils placés l’un par rapport à l’autre, une approximation des dimensions; inclure un croquis pour bien visualiser.
