@@ -4,14 +4,22 @@
 
 - Bien développer le propos : écrire comme si la personne qui vous lira n'a pas vu l'oeuvre ou le dispositif. Bien expliquer, tant au niveau de la description, de la mise en espace que de l'expérience du visiteur ou de l'interacteur. Puis, pour les aspects de votre vécu, il faut élaborer clairement votre pensée, mettez-y des détails et justifiez chacun des aspects que vous commentez.  
 
-- Développer le vocabulaire technique pour décrire les composantes et éléments de mise en exposition (ex. projecteur vidéo numérique, haut-parleur, caisson de basses-fréquences, pont d'éclairage ou herse, effet stroboscopique) ; effectuer des recherches complémentaires pour identifier et nommer les éléments observés. 
+- Développer le vocabulaire technique pour décrire les composantes et éléments de mise en exposition (ex. projecteur vidéo numérique, haut-parleur, caisson de basses-fréquences, pont d'éclairage ou herse, effet stroboscopique).
+- 
+- Artiste/firme qui a crée l’œuvre ou le dispositif : il faut le nommer pas seulement inclure plusieurs photos du panneau crédit sans rien écrire d’autre.
+ 
+ - Description de la mise en espace: être précis: situer la place dans la salle (à l’entrée, dans le milieu, en retrait, en hauteur, séparé par une cloison), la hauteur des modules ou éléments, comment sont-ils placés l’un par rapport à l’autre, une approximation des dimensions; inclure un croquis pour bien visualiser.
+
+ - Description des composantes et techniques : les nommer, les compter, les situer et donner les références pour les informations techniques que vous recherchez.
+
+ - Faire des recherches complémentaires : minimalement explorer le site web du lieu, de l’exposition ou de l’artiste pour compléter les informations techniques (pour identifier et nommer les éléments observés) ou artistiques et trouver des vidéos et contenus qui aident à comprendre l’expérience.
 
 - Pour toute citation intégrale, en cohérence avec le Guide de présentation des travaux écrits, mettre l'extrait entre « » et donner la source de cette citation. 
 Utiliser la syntaxe **blockquote** <https://www.markdownguide.org/basic-syntax/#blockquotes-1> pour indiquer les citations.  
 
 - Faire une présentation personnelle (pas une simple grille d’infos) fluide avec une mise en forme du texte et des sections pour une communication visuelle agréable et claire. 
 
-- Mettre à jour le README.md du répertoire au fil de l'ajout de dossiers (présence pour chaque dossier et précision dans la description pour comprendre ce que contient le dossier)
+- Mettre à jour le README.md du répertoire au fil de l'ajout de dossiers (présence pour chaque dossier et précision dans la description pour comprendre ce que contient le dossier).
 
 
 ## ARBORESCENCE ET NOMMAGE
