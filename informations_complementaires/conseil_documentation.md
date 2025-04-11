@@ -1,6 +1,6 @@
 # CONSEILS POUR UNE DOCUMENTATION EFFICACE DES OEUVRES ET DISPOSITIFS 
 
-- Consulter le dossier Consigne du GitHub pour s'assurer de les respecter. 
+- Consulter le dossier Consigne du GitHub pour s'assurer de les respecter (Respecter la consigne dans le nommage de la fiche descriptive de l’œuvre/dispositif :  fiche_EXPO_dispositif.md) 
 
 - Bien développer le propos : écrire comme si la personne qui vous lira n'a pas vu l'oeuvre ou le dispositif. Bien expliquer, tant au niveau de la description, de la mise en espace que de l'expérience du visiteur ou de l'interacteur. Puis, pour les aspects de votre vécu, il faut élaborer clairement votre pensée, mettez-y des détails et justifiez chacun des aspects que vous commentez.  
 
@@ -11,7 +11,16 @@ Utiliser la syntaxe **blockquote** <https://www.markdownguide.org/basic-syntax/#
 
 - Faire une présentation personnelle (pas une simple grille d’infos) fluide avec une mise en forme du texte et des sections pour une communication visuelle agréable et claire. 
 
-- Mettre à jour le README.md du répertoire au fil de l'ajout de dossiers. 
+- Mettre à jour le README.md du répertoire au fil de l'ajout de dossiers (présence pour chaque dossier et précision dans la description pour comprendre ce que contient le dossier)
+
+
+## ARBORESCENCE ET NOMMAGE
+- Réfléchir à la logique de l'arborescence (diviser en sous-dossiers selon le nombre de documents et de possibles regroupements, par projet, par type de média, par équipement)é
+  
+- Bien soigner le nommage - Réfléchir à ses mots-clés descriptifs en tant que contenu qui doit être facilement compris par une autre personne. Ne pas utiliser de séquence chiffrée dans le nom (ex. projecteur_01 et projecteur_02, ajouter plutôt un qualificatif; garder les chiffres pour des dates et codes spécifiques.  Cela ne permet pas de différencier ce qui est particulier à chaque élément et la raison pourquoi vous l'avez choisie.
+  
+- Nommage des photos : mots- clés descriptifs du contenu et info crédit dans le nom (qui a pris la photo?) ex : ecran_tactile_photo_SF.jpg
+
 
  
 ## PHOTOGRAPHIES-VIDÉOS 
@@ -26,4 +35,3 @@ Utiliser la syntaxe **blockquote** <https://www.markdownguide.org/basic-syntax/#
 
 - Insérer les photographies à partir de votre répertoire (la documentation partagée avec des collaborateurs demande d'avoir les fichiers accessibles à tous). 
 
-- Bien soigner le nommage et l'arborescence - Réfléchir à ses mots-clés en tant que contenu qui doit être facilement compris par une autre personne. Ne pas utiliser de séquence chiffrée comme nom; garder les chiffres pour des dates et codes spécifiques.  
