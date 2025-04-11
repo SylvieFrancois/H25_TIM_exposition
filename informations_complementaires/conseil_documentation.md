@@ -23,11 +23,11 @@ Utiliser la syntaxe **blockquote** <https://www.markdownguide.org/basic-syntax/#
 
 
 ## ARBORESCENCE ET NOMMAGE
-- Réfléchir à la logique de l'arborescence (diviser en sous-dossiers selon le nombre de documents et de possibles regroupements, par projet, par type de média, par équipement)é
+- Réfléchir à la logique de l'arborescence (diviser en sous-dossiers selon le nombre de documents et de possibles regroupements, par projet, par type de média, par équipement).
   
 - Bien soigner le nommage - Réfléchir à ses mots-clés descriptifs en tant que contenu qui doit être facilement compris par une autre personne. Ne pas utiliser de séquence chiffrée dans le nom (ex. projecteur_01 et projecteur_02, ajouter plutôt un qualificatif; garder les chiffres pour des dates et codes spécifiques.  Cela ne permet pas de différencier ce qui est particulier à chaque élément et la raison pourquoi vous l'avez choisie.
   
-- Nommage des photos : mots- clés descriptifs du contenu et info crédit dans le nom (qui a pris la photo?) ex : ecran_tactile_photo_SF.jpg
+- Nommage des photos : mots- clés descriptifs du contenu et info crédit dans le nom (qui a pris la photo?) ex : ecran_tactile_photo_SF.jpg.
 
 
  
