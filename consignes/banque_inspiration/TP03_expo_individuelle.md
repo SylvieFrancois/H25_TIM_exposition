@@ -41,15 +41,14 @@ Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que v
 *Ce plan ne sera pas partagé à vos collègues. Il vous servira d'appui personnel lors de la présentation puisque la présentation orale n'est PAS une simple lecture de sa fiche_Oeuvre.md et sera utilisé par votre professeure pour l'évaluation*
 
 *Introduction* :
-- [ ] Quel est l'objectif de votre communication (sujet posé = présentation oeuvre ou du dispositif + expérience)
+- [ ] Quel est l'objectif de votre communication (sujet posé = nommer l'oeuvre (et l'artiste) ou le dispositif présenté + lieu visité)
 - [ ] Quels aspects seront abordés ? (sujet divisé = annoncer les différents points du développement)
 
 *Développement* :
-- [ ] Informations sur l'oeuvre ou le dispositif multimédia et le lieu d'exposition (Titre, Nom de l'artiste ou de la firme, Année de réalisation, Nom de l'exposition ou de l'événement, Type d'exposition, Lieu de mise en exposition + Infos sur le lieu, Date de votre visite)
 - [ ] Présentation détaillée de l'oeuvre ou du dispositif multimédia (description, type d'installation, fonction, mise en espace, composantes, éléments)
-- [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion/fonction, des gestes à poser, etc)
-- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)
-- [ ] **Liens avec autres oeuvres, dispositifs et expériences multimédias découverts cette session**
+- [ ] Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, le parcours, la durée, les gestes à poser, etc)
+- [ ] Appréciation critique et **justifications** (Ce qui vous a plu, vous a donné des idées + Aspects que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement + pourquoi)
+- [ ] **Liens avec d'autres oeuvres, dispositifs et expériences multimédias découverts cette session** (ressemblances, différences ou intérêt spécifique)
 
 *Conclusion* :
 - [ ] Rappel des aspects présentés
